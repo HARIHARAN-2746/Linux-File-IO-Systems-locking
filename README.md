@@ -149,10 +149,12 @@ int main(int argc, char *argv[]) {
 ## OUTPUT
 
 ## File copying
-![File copying](<../exp 7 part 1.png>)
+<img width="478" height="325" alt="image" src="https://github.com/user-attachments/assets/9ac464f9-2f43-4c28-b01e-2dc5073d30ed" />
+
 
 ## File Locking
-![File Locking](<../exp 7 part 2.png>)
+<img width="1002" height="565" alt="image" src="https://github.com/user-attachments/assets/0ca51453-d037-46df-b1c0-220e42fa9468" />
+
 
 
 
