@@ -149,10 +149,10 @@ int main(int argc, char *argv[]) {
 ## OUTPUT
 
 ## File copying
-![Alt text](<../exp 7 part 1.png>)
+![File copying](<../exp 7 part 1.png>)
 
 ## File Locking
-![Alt text](<../exp 7 part 2.png>)
+![File Locking](<../exp 7 part 2.png>)
 
 
 
